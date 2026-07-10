@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+https://premium.ryvoxtb.workers.dev/api/get-link?path=%2FSTAR-JALSHA%2Findex.fmp4.m3u8
